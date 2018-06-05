@@ -1,0 +1,3 @@
+UserPrincipalName,FirstName,LastName,Alias,DisplayName,City,State,Country,OrganizationalUnit,MailBox
+"Jeremy@morel.tech","Jeremy","Morel","jeremy","Jeremy M. Morel","Milford","NH","US","Morel.local/Users","True"
+"Jeremy2@morel.tech","Jeremy","Morel","jeremy2","Jeremy M. Morel","Milford","NH","US","Morel.tech/Users","False"
